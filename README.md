@@ -1,4 +1,4 @@
-### AKKA ride service project
+### Cab hailing application using Akka
 
 ## compile
     `mvn compile exec:exec`
